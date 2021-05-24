@@ -15,7 +15,7 @@ In 2021, I decided I wanted to write and share more. A way for me to achieve thi
 ### Technical side of this blog
 
 
-This blog is made using [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) and is hosted on [GitHub Pages](https://pages.github.com/). To know more how this blog is made, and how I converted my notebooks to blog posts see my post on [hosting Jupyter notebooks on a blog](/posts/about-this-blog/).
+This blog is made using [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) and is hosted on [GitHub Pages](https://pages.github.com/). To know more how this blog is made, and how I converted my notebooks to blog posts see my post on [hosting Jupyter notebooks on a blog](/posts/about-this-blog/). You can find the repo this blog is generated from on [GitHub](https://github.com/peterroelants/peterroelants.github.io).
 
 
 ### About me
